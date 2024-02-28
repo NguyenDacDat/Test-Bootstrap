@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+div.box {
+  background-color: aqua;
+  margin-top: 30px;
+  min-height: 40px;
+}
